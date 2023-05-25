@@ -26,6 +26,6 @@ In terms of other things, I...
 
 <div align="center">
 
-## [See my portfolio](https://aecsocket.github.io)
+# [Portfolio](https://aecsocket.github.io)
 
 </div>
