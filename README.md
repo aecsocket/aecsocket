@@ -1,4 +1,4 @@
-I'm a programmer based in the UK who's been programming since 2018. I got my start in Java through Minecraft modding, and later moved on to lower-level programming with Rust. Currently I'm developing my Rust skills, and looking at lower-level embedded programming, as well as high-level sysadmin and DevOps tools.
+I'm a programmer based in the UK who's been programming since 2018. I got my start in Java through Minecraft modding, and later moved on to programming with Rust. Currently I'm exploring low-level embedded programming and application development in Rust, as well as system administration and DevOps.
 
 # What I've built
 
@@ -40,7 +40,7 @@ Physics mod for Minecraft written in Kotlin, integrating via C-Java FFI to [Jolt
 
 - [fukomaster](https://github.com/aecsocket/fukomaster) - lets your [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s.910-006556) use trackpad gestures for your Linux desktop
 - [const-exhaustive](https://github.com/aecsocket/const-exhaustive) - enumerate all values of a Rust type at compile time
-- [Bevy](https://github.com/bevyengine/bevy/) contributor
+- contributing to the [Bevy](https://github.com/bevyengine/bevy/) networking ecosystem ([bevy_replicon](https://github.com/projectharmonia/bevy_replicon), [xwt](https://github.com/mozgiii/xwt)) and [reflection machinery](https://github.com/bevyengine/bevy/pull/15482)
 - [jolt-java](https://github.com/aecsocket/jolt-java) - Java/C/C++ FFI bindings for [Jolt Physics](https://github.com/jrouwe/joltphysics)
 - [cpu-features-java](https://github.com/aecsocket/cpu-features-java) - Java/C FFI bindings for [google/cpu_features](https://github.com/google/cpu_features)
 
@@ -79,7 +79,7 @@ Mini train station software stack, covering everything from the microcontroller 
 <tr>
 <td>
 
-### 💻 my homelab and personal website
+### 💻 my homelab and website
 
 Built and deployed using NixOS, running my internal services, and hosting my blog posts. Currently under maintenance - preview coming soon!
 
