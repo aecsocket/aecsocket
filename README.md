@@ -36,6 +36,23 @@ Physics mod for Minecraft written in Kotlin, integrating via C-Java FFI to [Jolt
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="40%">
+
+![Screenshot of the website](./static/website.png)
+
+</td>
+<td>
+
+### 🌍 [aruarian.dance](https://aruarian.dance)
+
+Personal website hosting my blog posts, built and deployed using NixOS.
+
+</td>
+</tr>
+</table>
+
 ...and a ton of other things:
 
 - [fukomaster](https://github.com/aecsocket/fukomaster) - lets your [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s.910-006556) use trackpad gestures for your Linux desktop
@@ -70,18 +87,6 @@ Pop-up dictionary engine and app for desktop, built using GTK and Adwaita via [R
 ### 🚅 metrostack
 
 Mini train station software stack, covering everything from the microcontroller at station gates to read your transit card (embedded Rust via [esp-hal](https://github.com/esp-rs/esp-hal)), up to the control plane which talks to the transit database ([axum](https://docs.rs/axum/latest/axum/) microservice).
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-
-### 💻 my homelab and website
-
-Built and deployed using NixOS, running my internal services, and hosting my blog posts. Currently under maintenance - preview coming soon!
 
 </td>
 </tr>
